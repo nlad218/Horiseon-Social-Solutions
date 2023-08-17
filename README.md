@@ -1,2 +1,2 @@
-# Marketing-
+# Marketing
 Homework assignment one
