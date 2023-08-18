@@ -20,12 +20,12 @@ body {
   display: inline-block;
   font-size: 48px;
 }
-
+/* class with code that colors the seo portion of Horiseon */
 .header h1 .seo {
   color: #d9dcd6;
 }
 
-/*changed div to nav for the three header classes below*/
+/* changed div to nav for the three header classes below */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -43,12 +43,12 @@ body {
   margin-left: 25px;
 }
 
-/*colors the text within the anchor element in the nav bar seciton*/
+/* colors the text within the anchor element in the nav bar seciton */
 a {
   color: #ffffff;
   text-decoration: none;
 }
-/*sets the font size for text within the paragraph sections*/
+/* sets the font size for text within the paragraph sections */
 p {
   font-size: 16px;
 }
@@ -137,7 +137,7 @@ p {
   max-width: 150px;
 }
 
-/*created class to condense css code for section styling */
+/* created class to condense css code for section styling */
 .section-styling {
   margin-bottom: 20px;
   padding: 50px;
@@ -187,12 +187,16 @@ p {
 }
 */
 
-/*created id to condense css code for max img height*/
-#section-images img {
+/* created class to condense css code for max img height */
+.section-images img {
   max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+/* creaded class to condense css code for h2 styling */
+.section-styling h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+/* .search-engine-optimization h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -205,7 +209,7 @@ p {
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
-}
+} */
 
 .footer {
   padding: 30px;
